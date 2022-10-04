@@ -1,0 +1,4 @@
+libxml2-devel [platform:rpm]
+subversion [platform:rpm]
+wget [platform:rpm]
+unzip [platform:rpm]
